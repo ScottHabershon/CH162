@@ -5,3 +5,5 @@ The Jupyter notebooks, labelled .ipynb, include some notes relating to some of t
 
 __ParticleInBox.ipynb__ - some notes on the particle-in-a-box wavefunctions (Lecture 3).
 
+__FreeParticle.ipynb__ - some notes on the free particle wavefunctions (Lecture 4).
+
