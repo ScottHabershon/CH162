@@ -6,6 +6,6 @@
 #
 bokeh
 matplotlib==3.2.1
-numpy==1.18.5
+numpy==1.22.0
 scipy==1.4.1              # via seaborn
 seaborn==0.10.1
